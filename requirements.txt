@@ -2,6 +2,7 @@ altair==4.1.0
 astor==0.8.1
 astroid==2.4.2
 attrs==19.3.0
+autopep8==1.5.3
 backcall==0.2.0
 base58==2.0.1
 bleach==3.1.5
@@ -51,6 +52,7 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 protobuf==3.12.2
 psycopg2==2.8.5
+pycodestyle==2.6.0
 pydeck==0.4.0b2
 Pygments==2.6.1
 pylint==2.5.3
